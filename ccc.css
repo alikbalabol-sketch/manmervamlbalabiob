@@ -55,3 +55,24 @@
     background-color: yellow;
     margin-bottom: 300px;
 }
+.a8{
+     width: 300px;
+    height: 300px;
+    background-color: red;
+    margin-bottom: 300px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+.a9{
+     width: 300px;
+    height: 300px;
+    background-color: green;
+    margin-bottom: 300px;
+}
+.a10{
+     width: 300px;
+    height: 300px;
+    background-color: blue;
+    margin-bottom: 300px;
+}
