@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+.a1{
+    width: 500px;
+    height: 500px;
+    background:linear-gradient(to top left, rgba(255, 0, 0, 0.747), yellow);
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 30px grey;
+}
+.box
+{
+    width: 90%;
+    height: 800px;
+    background:linear-gradient(rgba(0, 0, 0, 0.92),rgba(0, 0, 0, 0.348)),url("./lush-green-hilltop-island-with-trees-grass_191095-78179.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: 0px 0px 30px grey;
+}
+.box:hover
+{
+     background:linear-gradient(to bottom ,rgba(252, 230, 122, 0.494),rgba(128, 128, 128, 0)),url("./lush-green-hilltop-island-with-trees-grass_191095-78179.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
